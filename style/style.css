@@ -67,10 +67,9 @@ header{
 }
 .item-title{
     color:blue;
-    font-size: 80px;
-    font-weight: 600px;
+    font-size: 40px;
+    font-weight: 200px;
 }
 .item-description{
     font-size: 20px;
-    margin-top: 0px;
 }
