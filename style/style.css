@@ -107,3 +107,74 @@ header{
       color: #999;
       font-size: 14px;
    }
+   .Focus-div{
+    text-align: center;
+    padding-bottom: 71px;
+   }
+   .Focus-des{
+    padding-bottom: 32px;
+   }
+   .Focus-title{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px;
+   }
+   .Focus{
+    padding-top: 71px;
+    margin: 0px 149px 92px 151px;
+    background-color:#F2EDED;
+    border-radius: 14px;
+   }
+   .Focus-image{
+    border-radius:48px;
+   }
+   .Log-info{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 149px 14px 150px;
+    gap: 15px;
+    align-items: center;
+    background-color:#FFFFFF;
+   }
+   .form-group {
+      margin-bottom: 15px;
+    }
+    input[type="text"],
+    input[type="email"],
+    textarea{
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+    width: 100%;
+    padding:10px;
+    border: 2px solid #333;
+    font-size: 16px;
+    box-sizing: border-box;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+    }
+    textarea {
+      min-height: 100px;
+    }
+   .Log-title{
+    font-size: 97px;
+    font-weight: bold;
+   }
+   .submit-btn{
+      width: 100%;
+      padding: 16px;
+      background-color: #5b45fc;
+      border-radius: 10px;
+   }
+   footer {
+      background-image:url('/ui/footer.png'); 
+      background-size: cover;
+      background-position: center;
+      padding: 104px 455px 103px 454px;
+      margin:104px 200px 103px 200px ;
+      color: white;
+      text-align: center;
+    }
