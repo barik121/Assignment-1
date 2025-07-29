@@ -30,7 +30,7 @@ nav{
 header{
     background-image: url('../Assets/Hero-bg.png');
     height: 600px;
-    width: 1260px;
+    width: 100%;
 }
 .Action{
     display: flex;
