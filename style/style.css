@@ -60,7 +60,7 @@ header{
     margin-top: 10px;
 }
 .Rating{
-    margin: 0px 159px 187px 140px;
+    margin: 0px 159px 87px 140px;
     background-color:#47ACFF;
     border-radius: 24px;
     padding: 30px 100px 30px 100px;
@@ -73,3 +73,37 @@ header{
 .item-description{
     font-size: 20px;
 }
+.Re-title{
+    text-align: center;
+}
+.Review{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 149px 137px 151px;
+    gap: 20px;
+}
+.R-image{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.R-item{
+    background-color: #F2EDED;
+    padding: 24px;
+    flex-direction: column;
+    border-radius: 14%;
+}
+.image{
+    height: 40px;
+    width: 40px;
+    border-radius:50%;;
+}
+.reviewer-name {
+      font-weight: bold;
+      color: #555;
+      font-size: 15px;
+    }
+.reviewer-date{
+      color: #999;
+      font-size: 14px;
+   }
