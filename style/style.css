@@ -169,12 +169,18 @@ header{
       background-color: #5b45fc;
       border-radius: 10px;
    }
-   footer {
-      background-image:url('/ui/footer.png'); 
-      background-size: cover;
-      background-position: center;
-      padding: 104px 455px 103px 454px;
-      margin:104px 200px 103px 200px ;
-      color: white;
-      text-align: center;
-    }
+     .logo{
+        font-size: 100px;
+        font-weight: bolder;
+        color: #4E47FF;
+        margin-bottom: 8px;
+     }
+     .foot{
+        text-align: center;
+        margin: 0 auto;
+        padding: 50px 400px 103px 400px;
+     }
+     .footer-nav{
+        display: flex;
+        justify-content: space-around;
+     }
