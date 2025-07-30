@@ -35,7 +35,7 @@ header{
 .Action{
     display: flex;
     justify-content: space-between;
-    margin: 116px 140px 116px 159px;
+    margin: 116px 159px 116px 141px;
 }
 .Action-image{
     border-radius: 48px;
@@ -177,10 +177,11 @@ header{
      }
      .foot{
         text-align: center;
-        margin: 0 auto;
-        padding: 50px 400px 103px 400px;
+        margin: 0 320px 103px 320px;
+        padding: 55px 400px 103px 400px;
      }
      .footer-nav{
         display: flex;
         justify-content: space-around;
      }
+     
